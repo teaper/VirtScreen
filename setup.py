@@ -73,7 +73,7 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='https://github.com/kbumsik/VirtScreen',  # Optional
+    url='https://github.com/teaper/VirtScreen',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
@@ -208,11 +208,11 @@ setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        'Bug Reports': 'https://github.com/kbumsik/VirtScreen/issues',
+        'Bug Reports': 'https://github.com/teaper/VirtScreen/issues',
         # 'Funding': 'https://donate.pypi.org',
         # 'Say Thanks!': 'http://saythanks.io/to/example',
-        'Source': 'https://github.com/kbumsik/VirtScreen',
-        'Author Homepage': 'https://kbumsik.io',
+        'Source': 'https://github.com/teaper/VirtScreen',
+        'Author Homepage': 'https://www.teaper.dev',
     },
     python_requires='>=3.6',
 )

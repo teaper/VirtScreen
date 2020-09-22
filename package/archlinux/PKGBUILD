@@ -5,7 +5,7 @@ pkgver=0.3.1
 pkgrel=1
 pkgdesc="Make your iPad/tablet/computer as a secondary monitor on Linux"
 arch=("i686" "x86_64")
-url="https://github.com/kbumsik/VirtScreen"
+url="https://github.com/teaper/VirtScreen"
 license=('GPL')
 groups=()
 depends=('xorg-xrandr' 'x11vnc' 'python-pyqt5' 'qt5-quickcontrols2' 'python-quamash-git' 'python-netifaces')
@@ -20,7 +20,7 @@ backup=()
 options=()
 install=
 changelog=
-source=(src::git+https://github.com/kbumsik/$_pkgname_camelcase.git#tag=$pkgver)
+source=(src::git+https://github.com/teaper/$_pkgname_camelcase.git#tag=$pkgver)
 noextract=()
 md5sums=('SKIP')
 
