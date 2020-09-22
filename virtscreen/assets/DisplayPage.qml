@@ -15,7 +15,7 @@ ColumnLayout {
             RowLayout {
                 Label { text: "Width"; Layout.fillWidth: true }
                 SpinBox {
-                    value: settings.virt.width
+                    value: 1920
                     from: 640
                     to: 1920
                     stepSize: 1
@@ -29,9 +29,9 @@ ColumnLayout {
             RowLayout {
                 Label { text: "Height"; Layout.fillWidth: true }
                 SpinBox {
-                    value: settings.virt.height
+                    value: 1200
                     from: 360
-                    to: 1080
+                    to: 1200
                     stepSize : 1
                     editable: true
                     onValueModified: {
