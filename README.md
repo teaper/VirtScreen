@@ -9,8 +9,8 @@
 </h4>
 
 <div align="center">
-  <a href="https://github.com/kbumsik/VirtScreen">
-    <img src="https://raw.githubusercontent.com/kbumsik/VirtScreen/master/data/gif_example.gif" alt="VirtScreen" width="80%">
+  <a href="https://github.com/teaper/VirtScreen">
+    <img src="https://raw.githubusercontent.com/teaper/VirtScreen/master/data/gif_example.gif" alt="VirtScreen" width="80%">
   </a>
 </div>
 
@@ -34,7 +34,7 @@ VirtScreen is based on [PyQt5](https://www.riverbankcomputing.com/software/pyqt/
 1. Run the app.
 2. Set options (resolution etc.) and enable the virtual screen.
 3. Go to VNC tab and then start the VNC server.
-4. Run your favorite VNC client app on your second device and connect it to the IP address appeared on the app.
+4. Run your favorite VNC client app on your second device and connect it to the IP address appeared on the app.  
 
 ### CLI-only option
 
@@ -80,7 +80,7 @@ virtscreen --below --portrait  --hipdi  # Below, portrait, HiDPI mode.
 
 ### Universal package (AppImage)
 
-Download a `.AppImage` package from [releases page](https://github.com/kbumsik/VirtScreen/releases). Then make it executable:
+Download a `.AppImage` package from [releases page](https://github.com/teaper/VirtScreen/releases). Then make it executable:
 
 ```shell
 chmod a+x VirtScreen.AppImage
@@ -90,7 +90,7 @@ Then you can run it by double click the file or `./VirtScreen.AppImage` in termi
 
 ### Debian (Ubuntu)
 
-Download a `.deb` package from [releases page](https://github.com/kbumsik/VirtScreen/releases). Then install it:
+Download a `.deb` package from [releases page](https://github.com/teaper/VirtScreen/releases). Then install it:
 
 ```shell
 sudo apt-get update

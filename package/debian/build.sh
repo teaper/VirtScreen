@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PKGVER=0.3.1
+PKGVER=0.3.2
 # Required for debmake
 DEBEMAIL="k.bumsik@gmail.com"
 DEBFULLNAME="Bumsik Kim"

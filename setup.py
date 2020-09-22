@@ -1,5 +1,4 @@
 """A setuptools based setup module.
-
 See:
 https://packaging.python.org/en/latest/distributing.html
 https://github.com/pypa/sampleproject
@@ -40,7 +39,7 @@ setup(
     # For a discussion on single-sourcing the version across setup.py and the
     # project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.3.1',  # Required
+    version='0.3.2',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
@@ -73,7 +72,7 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='https://github.com/teaper/VirtScreen',  # Optional
+    url='https://github.com/kbumsik/VirtScreen',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
@@ -208,11 +207,11 @@ setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        'Bug Reports': 'https://github.com/teaper/VirtScreen/issues',
+        'Bug Reports': 'https://github.com/kbumsik/VirtScreen/issues',
         # 'Funding': 'https://donate.pypi.org',
         # 'Say Thanks!': 'http://saythanks.io/to/example',
-        'Source': 'https://github.com/teaper/VirtScreen',
-        'Author Homepage': 'https://www.teaper.dev',
+        'Source': 'https://github.com/kbumsik/VirtScreen',
+        'Author Homepage': 'https://kbumsik.io',
     },
     python_requires='>=3.6',
 )
