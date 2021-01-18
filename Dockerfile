@@ -1,6 +1,6 @@
 # Or bionic
 FROM ubuntu:bionic
-LABEL author="Bumsik Kim <k.bumsik@gmail.com>"
+LABEL author="Bumsik Kim <www@teaper.dev>"
 
 RUN apt-get update && \
     apt-get install -y python3-all python3-pip python3-wheel fakeroot debmake debhelper fakeroot wget tar curl && \

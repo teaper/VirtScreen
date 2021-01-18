@@ -2,8 +2,8 @@
 
 PKGVER=0.3.2
 # Required for debmake
-DEBEMAIL="k.bumsik@gmail.com"
-DEBFULLNAME="Bumsik Kim"
+DEBEMAIL="www@teaper.dev"
+DEBFULLNAME="Season Hsiao"
 export PKGVER DEBEMAIL DEBFULLNAME
 
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"

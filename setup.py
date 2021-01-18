@@ -80,7 +80,7 @@ setup(
 
     # This should be a valid email address corresponding to the author listed
     # above.
-    author_email='k.bumsik@gmail.com',  # Optional
+    author_email='www@teaper.dev',  # Optional
 
     # Classifiers help users find your project by categorizing it.
     #
@@ -207,11 +207,11 @@ setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        'Bug Reports': 'https://github.com/kbumsik/VirtScreen/issues',
+        'Bug Reports': 'https://github.com/teaper/VirtScreen/issues',
         # 'Funding': 'https://donate.pypi.org',
         # 'Say Thanks!': 'http://saythanks.io/to/example',
-        'Source': 'https://github.com/kbumsik/VirtScreen',
-        'Author Homepage': 'https://kbumsik.io',
+        'Source': 'https://github.com/teaper/VirtScreen',
+        'Author Homepage': 'https://teaper.dev',
     },
     python_requires='>=3.6',
 )
